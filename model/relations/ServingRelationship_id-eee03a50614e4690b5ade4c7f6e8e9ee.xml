@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tramites y servicios"
+    id="id-eee03a50614e4690b5ade4c7f6e8e9ee">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-06737f6d7d524a35ac85c44987531f94.xml#id-06737f6d7d524a35ac85c44987531f94"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fc802e52b3f147babb5ec8ae48d5105f.xml#id-fc802e52b3f147babb5ec8ae48d5105f"/>
+</archimate:ServingRelationship>
