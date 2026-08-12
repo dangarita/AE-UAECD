@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite SICAPITAL"
+    id="id-6fae26315e1b45599f7450af0de42539"
+    documentation="Capa: Aplicaciones administrativas, financieras y de apoyo. Tecnología declarada: Oracle WebLogic Forms 12c, adquirido con modificaciones. Módulos: CORDIS (correspondencia); FACTURACIÓN; LIMAY (contabilidad); PAC; PERNO (nómina); PREDIS (presupuesto); SAE (devolutivos); SAI (consumo); OPGET (tesorería); SISCO (contratación); SAIF (solo consulta); TERCEROS (solo consulta). Estado: riesgo de obsolescencia; SAIF y TERCEROS en solo consulta."/>

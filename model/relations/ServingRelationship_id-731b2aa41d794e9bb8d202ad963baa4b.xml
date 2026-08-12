@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión comercial del avalúo"
+    id="id-731b2aa41d794e9bb8d202ad963baa4b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-906d86477da3440c81bcceeefa2ff288.xml#id-906d86477da3440c81bcceeefa2ff288"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6f2199b687dc4c2e8178052d8b6688df.xml#id-6f2199b687dc4c2e8178052d8b6688df"/>
+</archimate:ServingRelationship>

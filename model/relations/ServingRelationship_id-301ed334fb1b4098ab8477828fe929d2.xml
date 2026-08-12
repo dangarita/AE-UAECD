@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta de la base predial"
+    id="id-301ed334fb1b4098ab8477828fe929d2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dc7bfbcc6ceb45659ed998f55d671ccd.xml#id-dc7bfbcc6ceb45659ed998f55d671ccd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d0acd611e0e44ff392c3faa7f3d2c422.xml#id-d0acd611e0e44ff392c3faa7f3d2c422"/>
+</archimate:ServingRelationship>
