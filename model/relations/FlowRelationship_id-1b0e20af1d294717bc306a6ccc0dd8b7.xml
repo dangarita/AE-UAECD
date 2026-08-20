@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLink"
+    id="id-1b0e20af1d294717bc306a6ccc0dd8b7"
+    documentation="nombre: SIIC → GEOGRÁFICA; prop: Disponer de permisos de consulta sobre el esquema SDE (Spatial Database Engine) es usado por ArcGIS en BDOracle y contiene los objetos necesarios para consultar la BD geografica alfanumérica; datos: Premitir ejecutar paquetes y procedimientos, consultar vistas,  del diccionario de datos de Oracle; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33710c4113be4b60a6d8baa4dbe2057b.xml#id-33710c4113be4b60a6d8baa4dbe2057b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a649bf8dd1774aad909e53cb110aeacf.xml#id-a649bf8dd1774aad909e53cb110aeacf"/>
+</archimate:FlowRelationship>

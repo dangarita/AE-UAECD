@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLInk"
+    id="id-513bb0efb2d54d2d8d716b24ee8a2e16"
+    documentation="nombre: ADMINISTRATIVA → WCC; prop: Consultar tablas de los esquemas del gestor documental WCC; datos: Ususario con privilegio de consulta; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fc16f760ad844ec897c314de7ecdb633.xml#id-fc16f760ad844ec897c314de7ecdb633"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-492199ec08764cf0ac45c57a55c073d7.xml#id-492199ec08764cf0ac45c57a55c073d7"/>
+</archimate:FlowRelationship>

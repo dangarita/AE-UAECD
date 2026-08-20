@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WS SOAP"
+    id="id-8bad6a9eb0e14696a70afe685a3bbe15"
+    documentation="nombre: SICAPITAL -> BOGOTA TE ESCUCHA; prop: Reportar radicados de CORDIS a BOGOTA TE ESCUCHA; datos: Datos de radicados y/o documentos; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Externa; ext: Secretaría General; seg: Usuario/contraseña; crit: Baja; estado: Obsoleta">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-422bde823f8449f6b845b43d854abbe6.xml#id-422bde823f8449f6b845b43d854abbe6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1cc1460d46a04a10905558f46162216b.xml#id-1cc1460d46a04a10905558f46162216b"/>
+</archimate:FlowRelationship>

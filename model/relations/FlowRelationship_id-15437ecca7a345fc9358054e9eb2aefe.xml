@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL"
+    id="id-15437ecca7a345fc9358054e9eb2aefe"
+    documentation="nombre: LPC-SIIC->IGAC; prop: Entregar un archivo de interoperabilidad en arquitectura XTF que cumpla con el modelo LADM COL; datos: Geográficos y alfanuméricos; formato: XTF/Interlis; modo: Síncrono; frec: Bajo demanda; ambito: Externa; ext: IGAC; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b64b4526467145ec949a1aca64cc92d3.xml#id-b64b4526467145ec949a1aca64cc92d3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-45e0f844c1eb40e2aa88764a3cd7d50d.xml#id-45e0f844c1eb40e2aa88764a3cd7d50d"/>
+</archimate:FlowRelationship>

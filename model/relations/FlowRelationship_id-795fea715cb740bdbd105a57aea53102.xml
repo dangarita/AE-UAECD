@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLink"
+    id="id-795fea715cb740bdbd105a57aea53102"
+    documentation="nombre: SIIC → HISTÓRICA; prop: Consulta sobre tablas históricas de Misional, se actualizan cada fin de año despues del censo. Las consultas se hacen desde la aplicación BASESAS y R que son para estadística y análisis de datos; datos: Ususario con privilegio de consulta; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33710c4113be4b60a6d8baa4dbe2057b.xml#id-33710c4113be4b60a6d8baa4dbe2057b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c3e38efa33d84caa8692034d97b04623.xml#id-c3e38efa33d84caa8692034d97b04623"/>
+</archimate:FlowRelationship>

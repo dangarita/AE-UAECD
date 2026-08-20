@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLink"
+    id="id-464e5fb43cbe4603aab646cd773b5421"
+    documentation="nombre: SIIC → ADMINISTRATIVA; prop: Contar con privilegios de lectura sobre los objetos requeridos del esquema de Facturación, permitiendo la consulta de datos necesarios para la operación de la integración cuando un ciudadano genera una factura; datos: Utiliza un usuario con opciones de SELECT, INSERT, EXECUTE para objetos de facturación SFV&#xA;&#xA;Select para objetos del esquema de Terceros TRC&#xA;Select para objetos del esquema de parámetros SHD; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33710c4113be4b60a6d8baa4dbe2057b.xml#id-33710c4113be4b60a6d8baa4dbe2057b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88b0c6fae40347e3903ea509f4e47a42.xml#id-88b0c6fae40347e3903ea509f4e47a42"/>
+</archimate:FlowRelationship>

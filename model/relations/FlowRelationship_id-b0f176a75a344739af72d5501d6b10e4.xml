@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API REST"
+    id="id-b0f176a75a344739af72d5501d6b10e4"
+    documentation="nombre: Cabidas y linderos -> SIIC; prop: Consume la informacion de un predio, y determina si se puede generar un certificado de cabidas y linderos; datos: Alfanumérico; formato: JSON; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0997758d112f459188666685459881a2.xml#id-0997758d112f459188666685459881a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5f4a5631689a4aabb90e9abdd63c90eb.xml#id-5f4a5631689a4aabb90e9abdd63c90eb"/>
+</archimate:FlowRelationship>

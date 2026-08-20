@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API REST"
+    id="id-b873d0b6eec049bcb7a280f77462700d"
+    documentation="nombre: CEL->SNR; prop: Tener actualizada la información jurídica de la base catastral.; datos: Datos último propietario a partir de la matrícula.; formato: JSON; modo: Síncrono; frec: Tiempo real; ambito: Externa; ext: SNR; seg: OAuth2; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e8801e1c8199483a944f4c119597fdfd.xml#id-e8801e1c8199483a944f4c119597fdfd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0997758d112f459188666685459881a2.xml#id-0997758d112f459188666685459881a2"/>
+</archimate:FlowRelationship>

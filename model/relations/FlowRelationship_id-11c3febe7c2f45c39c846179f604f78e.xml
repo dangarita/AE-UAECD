@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLink"
+    id="id-11c3febe7c2f45c39c846179f604f78e"
+    documentation="nombre: TIENDA VIRTUAL->SICAPITAL FACTURACIÓN; prop: Crear las facturas de los pagos de la tienda virtual; datos: Datos de facturación; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Media; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-eec5268d22e9486291ce1641fe9b7c53.xml#id-eec5268d22e9486291ce1641fe9b7c53"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5c2060497d5b43e180021755c54aff83.xml#id-5c2060497d5b43e180021755c54aff83"/>
+</archimate:FlowRelationship>

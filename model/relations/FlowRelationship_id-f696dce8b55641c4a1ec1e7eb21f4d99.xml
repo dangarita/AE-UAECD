@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DBLink"
+    id="id-f696dce8b55641c4a1ec1e7eb21f4d99"
+    documentation="nombre: HISTÓRICA → SIIC; prop: Disponer de permisos para consulta sobre objetos de la BD misional; datos: Permite consulta para los siguientes esquemas: &#xA;SELECT&#x9;SYS&#xA;SELECT&#x9;GEN_ZHFG&#xA;SELECT&#x9;OPS$SIIC; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c3e38efa33d84caa8692034d97b04623.xml#id-c3e38efa33d84caa8692034d97b04623"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-33710c4113be4b60a6d8baa4dbe2057b.xml#id-33710c4113be4b60a6d8baa4dbe2057b"/>
+</archimate:FlowRelationship>

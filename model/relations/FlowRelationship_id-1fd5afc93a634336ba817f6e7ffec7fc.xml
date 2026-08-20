@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API REST"
+    id="id-1fd5afc93a634336ba817f6e7ffec7fc"
+    documentation="nombre: VISOR CARTOGRÁFICO->CEL; prop: Sacar planos para conformar expediente y ventas en tienda catastral y catastro en línea; datos: Geográficos y alfanuméricos; formato: JSON; modo: Síncrono; frec: Bajo demanda; ambito: Externa; seg: Usuario/contraseña; crit: Media; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1e81affbf116459db3a38bc00b62e079.xml#id-1e81affbf116459db3a38bc00b62e079"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-189deac7d223459e8b1b02ef4bc862a6.xml#id-189deac7d223459e8b1b02ef4bc862a6"/>
+</archimate:FlowRelationship>

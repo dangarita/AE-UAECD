@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WFM ArcGis"
+    id="id-172bcf158cf047e08521d501637d34cf"
+    documentation="nombre: LPC->SIIC; prop: Traer un radicado de SIIC que esté en estado 6 (actualice cartografía) para un englobe, desenglobe, censo inmobiliario, etc.; datos: Dato alfanumérico; formato: JSON; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Alta; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0997758d112f459188666685459881a2.xml#id-0997758d112f459188666685459881a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-209af5acfc41499e887e9d8fbb925ec1.xml#id-209af5acfc41499e887e9d8fbb925ec1"/>
+</archimate:FlowRelationship>

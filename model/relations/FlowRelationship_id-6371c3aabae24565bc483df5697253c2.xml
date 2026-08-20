@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WS SOAP"
+    id="id-6371c3aabae24565bc483df5697253c2"
+    documentation="nombre: SICAPITAL->CORDIS; prop: Almacenar los documentos de los radicados en el gestor documental.; datos: Documentos; formato: Otro; modo: Síncrono; frec: Bajo demanda; ambito: Interna; seg: Usuario/contraseña; crit: Media; estado: Activa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-422bde823f8449f6b845b43d854abbe6.xml#id-422bde823f8449f6b845b43d854abbe6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-380be4245dbe4b29a5d6505b68f26e73.xml#id-380be4245dbe4b29a5d6505b68f26e73"/>
+</archimate:FlowRelationship>
