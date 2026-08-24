@@ -977,15 +977,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-31b3345afd404b0bb760df801824ee4f"
-          source="id-3bd59c2d982c48a3bab9e678f44d924f"
-          target="id-6b8187457dc54a52a904def2323aeb9d">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-b77454244e124480ba7a1167024e4bd9.xml#id-b77454244e124480ba7a1167024e4bd9"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7531a5db53b94dc4be6e86217ae6d803"
           source="id-3bd59c2d982c48a3bab9e678f44d924f"
           target="id-d12389962aca4cb6880b9269d798dfbd">
@@ -1048,7 +1039,7 @@
           fillColor="#FDE8D2"
           type="1">
         <bounds
-            x="246"
+            x="384"
             y="48"
             width="212"
             height="58"/>
@@ -1063,28 +1054,13 @@
           fillColor="#FDE8D2"
           type="1">
         <bounds
-            x="471"
+            x="720"
             y="48"
             width="212"
             height="58"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
             href="ApplicationComponent_id-aa7af3da69c3412b967cad6d059ba522.xml#id-aa7af3da69c3412b967cad6d059ba522"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-6b8187457dc54a52a904def2323aeb9d"
-          targetConnections="id-31b3345afd404b0bb760df801824ee4f id-5cb7756565a7488db57f0d761f4295e3"
-          fillColor="#FDE8D2"
-          type="1">
-        <bounds
-            x="696"
-            y="48"
-            width="212"
-            height="58"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-dea7a8ffde0d45239a8c94399a982207.xml#id-dea7a8ffde0d45239a8c94399a982207"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -1108,7 +1084,7 @@
           fillColor="#E5E1F2"
           type="1">
         <bounds
-            x="246"
+            x="383"
             y="122"
             width="212"
             height="58"/>
@@ -1316,6 +1292,11 @@
             id="id-0d5de621a03e433386cbbf1f3bbc5e77"
             source="id-23eff7a363114b4e892195b10c575582"
             target="id-cd5ff8b9bc574e01b0cb6d0623c4d671">
+          <bendpoints
+              startX="86"
+              startY="-305"
+              endX="-154"
+              endY="8"/>
           <archimateRelationship
               xsi:type="archimate:TriggeringRelationship"
               href="TriggeringRelationship_id-b5fcfc4e184e4d35b902b2fae8ebbec1.xml#id-b5fcfc4e184e4d35b902b2fae8ebbec1"/>
@@ -1408,35 +1389,6 @@
           targetConnections="id-d3a909a08b394eb6b924e32228213075"
           fillColor="#F7DDE4"
           type="1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-5cb7756565a7488db57f0d761f4295e3"
-            source="id-2ea7cf8a17304fb0b6984b4046027823"
-            target="id-6b8187457dc54a52a904def2323aeb9d">
-          <bendpoints
-              startX="97"
-              startY="-52"
-              endX="-239"
-              endY="356"/>
-          <bendpoints
-              startX="229"
-              startY="-52"
-              endX="-107"
-              endY="356"/>
-          <bendpoints
-              startX="229"
-              startY="-232"
-              endX="-107"
-              endY="176"/>
-          <bendpoints
-              startX="313"
-              startY="-232"
-              endX="-23"
-              endY="176"/>
-          <archimateRelationship
-              xsi:type="archimate:TriggeringRelationship"
-              href="TriggeringRelationship_id-06e081f6213e4b05b2b77a1e5bfad043.xml#id-06e081f6213e4b05b2b77a1e5bfad043"/>
-        </sourceConnections>
         <bounds
             x="360"
             y="156"
