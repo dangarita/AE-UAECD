@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aloja"
+    id="rel-188">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_ss-vm-dc.xml#ss-vm-dc"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-pandora-srv.xml#ss-pandora-srv"/>
+</archimate:AssociationRelationship>

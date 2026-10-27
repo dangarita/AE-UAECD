@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Red LAN de la sede principal (37 VLAN activas, reducidas desde 354)"
+    id="cn-lan"
+    documentation="Nueve VLAN nuevas para la hiperconvergencia. Fuente: PETI 2026 (5.5 y 6.5); V13 tabla 14, DA-07."/>

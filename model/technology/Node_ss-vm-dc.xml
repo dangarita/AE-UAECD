@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="36 elementos lógicos on-premise (24 producción, 12 pruebas)"
+    id="ss-vm-dc"
+    documentation="34 máquinas virtuales y 2 bases de datos SQL Server, todas con anfitrión «Sistema hiperconvergente». Fuente: V13 numeral 5.3.1 y tabla 17."/>

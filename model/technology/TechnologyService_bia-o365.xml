@@ -1,0 +1,18 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Office 365"
+    id="bia-o365"
+    documentation="Servicio de apoyo del proceso Gestión Estratégica de Tecnología. Importancia en el BIA: 4 Alta. Fuente: BIA 2026 v2.0 numeral 4.11; BCP 2026 numeral 5; V13 tabla 44.">
+  <properties
+      key="Importancia"
+      value="4 Alta"/>
+  <properties
+      key="RTO"
+      value="1 día"/>
+  <properties
+      key="MTPD"
+      value="2 días"/>
+  <properties
+      key="RPO"
+      value="NA"/>
+</archimate:TechnologyService>

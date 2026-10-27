@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hiperconvergencia: 4 nodos Lenovo ThinkAgile HX630 (ntAHV01 a 04catastro)"
+    id="d-hci"
+    documentation="24 núcleos físicos, 128 GB de RAM y 78,4 TB brutos por nodo. Soporte vigente con contrato. Aloja Pandora, Broadcom DX, mesa de servicio de CA, X-Road y Directorio Activo. Fuente: V13 tabla 18; hoja 03."/>

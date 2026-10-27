@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-135">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-db-mesa.xml#ss-db-mesa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ap-09.xml#ap-09"/>
+</archimate:ServingRelationship>

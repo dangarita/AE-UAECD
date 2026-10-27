@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mesa de Servicios TI (punto único de contacto)"
+    id="bi-mesa"
+    documentation="Canales: web (portal institucional e intranet), correo si falla la web, teléfono (extensiones 7777, 7776 y 7746) si falla el correo. El operador clasifica como incidente o requerimiento. Fuente: catálogo 13-02-DT-03 numeral 4; V13 tabla 39."/>

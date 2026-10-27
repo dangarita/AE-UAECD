@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro e imágenes Docker y hosts de contenedores"
+    id="ss-docker"
+    documentation="Un registro de imágenes y un host en producción y dos hosts de pruebas (OCI Ashburn y on-premise). Fuente: V13 numeral 5.3.1."/>

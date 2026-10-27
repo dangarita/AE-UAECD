@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle WebLogic (Catastro en Línea, Capturador de Terreno, Tienda Virtual y mapas)"
+    id="ss-wls"
+    documentation="6 registros de servidor: 5 en OCI Ashburn y 1 en Azure; SIIC y SICapital siguen en WebLogic 12.2.1.4.0 (RT-02). Fuente: V13 tabla 26 y restricción RT-02."/>

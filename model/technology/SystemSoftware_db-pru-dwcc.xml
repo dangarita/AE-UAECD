@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDPRUDWCC"
+    id="db-pru-dwcc"
+    documentation="Oracle Database 19c, pruebas, OCI Ashburn, sin alta disponibilidad. Fuente: Libro de catálogos del dominio v1.2, hoja 04."/>

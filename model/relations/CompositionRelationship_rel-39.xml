@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-39">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-bog.xml#n-bog"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_env-bog-0.xml#env-bog-0"/>
+</archimate:CompositionRelationship>

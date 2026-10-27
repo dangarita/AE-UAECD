@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autenticación centralizada con Directorio Activo y múltiple factor (MFA)"
+    id="ss-mfa"
+    documentation="Incluye el acceso a WCC. Fuente: PETI 2026 (5.5); V13 tabla 14, DA-05."/>

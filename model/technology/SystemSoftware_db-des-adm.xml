@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDDES ADM"
+    id="db-des-adm"
+    documentation="Oracle Database 19c, único ambiente de desarrollo registrado, OCI Ashburn, sin alta disponibilidad. Fuente: Libro de catálogos del dominio v1.2, hoja 04."/>

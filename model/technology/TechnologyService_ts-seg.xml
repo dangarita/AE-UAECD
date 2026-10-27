@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad de la información (perímetro, identidad, SOC y vigilancia)"
+    id="ts-seg"
+    documentation="Atraviesa todas las capas. Fuente: V13 numeral 5.2."/>

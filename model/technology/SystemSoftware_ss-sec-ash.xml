@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad virtual en OCI Ashburn: FortiGate, FortiWeb, WAF, FortiSIEM, FortiCollector y Tenable"
+    id="ss-sec-ash"
+    documentation="10 registros con FortiOS en OCI Ashburn; FortiSIEM y FortiCollector sin respaldo declarado. Fuente: V13 numeral 5.3.3 y tabla 32."/>

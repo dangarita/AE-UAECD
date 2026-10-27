@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-180">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_bia-engage.xml#bia-engage"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_as-engage.xml#as-engage"/>
+</archimate:AssociationRelationship>

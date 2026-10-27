@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PERNO (nómina)"
+    id="ap-perno"
+    documentation="Tiene servidores en el catálogo (PROWINLIQNOM, Windows Server 2012 R2) y no está en el listado de 28 sistemas (VC-AT-16). Fuente: V13 tablas 24 y 32."/>

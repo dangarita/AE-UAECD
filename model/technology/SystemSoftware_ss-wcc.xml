@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle WebCenter Content (WCC): seis servidores de producción"
+    id="ss-wcc"
+    documentation="13 registros de servidor en OCI Ashburn (6 producción y 7 pruebas). Fuente: V13 tabla 26."/>

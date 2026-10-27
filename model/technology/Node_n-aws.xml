@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS (UBI-05), servicio SaaS de IA"
+    id="n-aws"
+    documentation="Plataforma SaaS de inteligencia artificial del proveedor Hounduck; CatIA se ejecuta sobre ella. Sin integraciones registradas. Fuente: V13 numeral 5.2 y tabla 35."/>

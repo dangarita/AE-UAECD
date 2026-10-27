@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios de plataforma: GitLab, Passbolt y servidores de nómina (PERNO)"
+    id="ss-plat"
+    documentation="GitLab (VMPROGITLAB01) es el único elemento de despliegue registrado. Fuente: V13 tablas 32 y 37."/>

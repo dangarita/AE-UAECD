@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Réplicas de contingencia en Oracle RAC: 5 bases (misional, histórica, administrativa, WCC y geográfica)"
+    id="ss-ora-drp"
+    documentation="OCI Bogotá. Fuente: V13 tabla 34."/>

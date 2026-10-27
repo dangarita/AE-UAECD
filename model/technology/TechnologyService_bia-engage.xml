@@ -1,0 +1,18 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Red social Engage"
+    id="bia-engage"
+    documentation="Servicio de apoyo del proceso Gestión Estratégica de Tecnología. Importancia en el BIA: 2 Menor. Fuente: BIA 2026 v2.0 numeral 4.11; BCP 2026 numeral 5; V13 tabla 44.">
+  <properties
+      key="Importancia"
+      value="2 Menor"/>
+  <properties
+      key="RTO"
+      value="1 mes"/>
+  <properties
+      key="MTPD"
+      value="2 meses"/>
+  <properties
+      key="RPO"
+      value="1 mes"/>
+</archimate:TechnologyService>

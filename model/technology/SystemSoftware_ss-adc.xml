@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADConnect (PROWINADC02) en Azure"
+    id="ss-adc"
+    documentation="Sincroniza el directorio con Entra ID. Fuente: V13 tabla 27."/>

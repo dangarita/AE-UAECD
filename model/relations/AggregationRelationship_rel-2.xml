@@ -1,0 +1,11 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-2">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_loc-tb.xml#loc-tb"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_loc-dc.xml#loc-dc"/>
+</archimate:AggregationRelationship>

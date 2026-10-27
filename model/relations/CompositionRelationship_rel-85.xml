@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-85">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-sd.xml#n-sd"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-datosab.xml#db-datosab"/>
+</archimate:CompositionRelationship>

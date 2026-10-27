@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-29">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-wcc5.xml#db-wcc5"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-pro-dsgda.xml#db-pro-dsgda"/>
+</archimate:CompositionRelationship>

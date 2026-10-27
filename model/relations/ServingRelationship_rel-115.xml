@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-115">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-pandora-srv.xml#ss-pandora-srv"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ap-25.xml#ap-25"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,18 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Outlook"
+    id="bia-outlook"
+    documentation="Servicio de apoyo del proceso Gestión Estratégica de Tecnología. Importancia en el BIA: 3 Moderado. Fuente: BIA 2026 v2.0 numeral 4.11; BCP 2026 numeral 5; V13 tabla 44.">
+  <properties
+      key="Importancia"
+      value="3 Moderado"/>
+  <properties
+      key="RTO"
+      value="8 horas"/>
+  <properties
+      key="MTPD"
+      value="2 días"/>
+  <properties
+      key="RPO"
+      value="3 días"/>
+</archimate:TechnologyService>

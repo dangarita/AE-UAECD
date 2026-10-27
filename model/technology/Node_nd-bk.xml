@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plataforma de respaldo hiperconvergente (Lenovo, Nutanix y Veeam)"
+    id="nd-bk"
+    documentation="Reportada por el PETI 2026 (5.5); no está registrada en el catálogo físico (VC-AT-05). Un nodo de almacenamiento adquirido recientemente permite que el uso de la capacidad baje del 70 % (dato de la Subgerencia de Infraestructura). Fuente: V13 tabla 20."/>

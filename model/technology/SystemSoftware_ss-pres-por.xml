@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portales web de Catastro, IDECA, Datos Abiertos, Mapas Bogotá e Intranet"
+    id="ss-pres-por"
+    documentation="Apache, Drupal y CKAN. Azure; pruebas en el centro de datos propio. Fuente: V13 tabla 34."/>

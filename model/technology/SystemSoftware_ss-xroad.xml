@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="X-Road (VMPROXROAD; pruebas VMPRUXROAD)"
+    id="ss-xroad"
+    documentation="Integración con otras entidades. No hay elemento de API Management. Fuente: V13 tabla 32."/>

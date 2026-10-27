@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="respaldo"
+    id="rel-189">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-veeam.xml#ss-veeam"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_nd-bk.xml#nd-bk"/>
+</archimate:AssociationRelationship>

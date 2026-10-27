@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadcom DX (observabilidad; cinco servidores PROWINDX) y HPE IMC"
+    id="ss-dx"
+    documentation="Cobertura superior a 97 % en aplicativos críticos según el PETI; el catálogo declara monitoreo en 36 de 227 registros (VC-AT-06). Fuente: V13 tablas 14, 26 y 32."/>

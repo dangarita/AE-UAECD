@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server 2016 en instancia única (Mesa de Servicios e IMC); MariaDB y PostgreSQL (Intranet, Portal, Datos Abiertos)"
+    id="ss-dat-otras"
+    documentation="Centro de datos propio y sin dominio asignado. Fuente: V13 tabla 34."/>

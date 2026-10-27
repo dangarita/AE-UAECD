@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Antivirus y EDR (consola de antivirus; servidores Symantec AD-Gateway y SpanVA)"
+    id="ss-antivirus"
+    documentation="Renovación del antivirus y despliegue de EDR con IA según el PETI. Fuente: V13 tabla 27."/>

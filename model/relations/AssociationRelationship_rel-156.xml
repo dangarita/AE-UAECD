@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-156">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ba-fun.xml#ba-fun"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_bi-mesa.xml#bi-mesa"/>
+</archimate:AssociationRelationship>

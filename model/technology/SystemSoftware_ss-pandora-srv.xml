@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidores de Pandora (VMPROPANDORA; pruebas VMPRUPANDORA en OCI Ashburn)"
+    id="ss-pandora-srv"
+    documentation="Producción en el centro de datos propio y pruebas en la nube. Fuente: V13 tabla 31."/>

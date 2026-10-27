@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GitLab, registro Docker y nodos OKE de producción y pruebas existen; el flujo de despliegue y sus responsables no están documentados"
+    id="as-env-gitlab"
+    documentation="Fuente: V13 tabla 37."/>

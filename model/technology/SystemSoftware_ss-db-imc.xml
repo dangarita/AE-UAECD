@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDPRO IMC (SQL Server 2016 SP3 Standard)"
+    id="ss-db-imc"
+    documentation="Instancia única; sin soporte del fabricante. Fuente: V13 tabla 25."/>

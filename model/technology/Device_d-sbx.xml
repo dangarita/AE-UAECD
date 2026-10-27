@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiSandbox-1000F"
+    id="d-sbx"
+    documentation="Análisis de archivos en entorno aislado. Fuente: V13 tabla 22."/>

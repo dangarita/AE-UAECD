@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCI Bogotá sin servidores de aplicación; réplica sin confirmar (PA-01)"
+    id="as-bog-app"
+    documentation="El ambiente de recuperación completo y el DRP con ambiente espejo figuran como actividades de 2026. Fuente: V13 tabla 43."/>

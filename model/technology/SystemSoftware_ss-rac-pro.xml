@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle RAC en 8 bases de producción"
+    id="ss-rac-pro"
+    documentation="Las 4 bases de pruebas y desarrollo no tienen alta disponibilidad. Fuente: V13 tabla 43."/>

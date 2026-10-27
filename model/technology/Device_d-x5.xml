@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidores Oracle X5 (PROWINGEST01 y 02)"
+    id="d-x5"
+    documentation="Criticidad baja, alojan DataProtector. Registrados en el Data Center SDH. Fin de soporte estándar vencido; sin contrato. Fuente: V13 tabla 18."/>

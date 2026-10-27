@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiAnalyzer FAZ-810G y FAZ-800F"
+    id="d-faz"
+    documentation="14,4 TB cada uno, guardan logs de equipos Fortinet. El FAZ-800F está en proceso de baja. Fuente: V13 tablas 20 y 22."/>

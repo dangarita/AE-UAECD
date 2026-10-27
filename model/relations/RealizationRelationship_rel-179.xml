@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-179">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_cn-net.xml#cn-net"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_bia-internet.xml#bia-internet"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="36 elementos lógicos on-premise: 34 máquinas virtuales y 2 bases SQL Server; 24 producción y 12 pruebas"
+    id="as-vmok"
+    documentation="Fuente: V13 numeral 5.3.1 y tabla 17."/>

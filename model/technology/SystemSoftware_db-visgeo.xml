@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vmprobdvisgeobta (base de datos del Visor Cartográfico dentro de una máquina virtual)"
+    id="db-visgeo"
+    documentation="Azure. Fuente: V13 tabla 31 y VC-AT-15."/>

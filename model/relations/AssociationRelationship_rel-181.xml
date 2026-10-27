@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-181">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_d-swc.xml#d-swc"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_cn-lan.xml#cn-lan"/>
+</archimate:AssociationRelationship>

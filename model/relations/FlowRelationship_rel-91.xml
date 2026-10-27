@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replicación Oracle (DRP)"
+    id="rel-91">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-ash.xml#n-ash"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_n-bog.xml#n-bog"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración: X-Road, enlaces de base de datos y ETL; sin API Management"
+    id="ss-app-int"
+    documentation="Centro de datos propio y OCI Ashburn. Fuente: V13 tabla 34."/>

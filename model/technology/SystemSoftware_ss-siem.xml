@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FortiSIEM y FortiCollector"
+    id="ss-siem"
+    documentation="Registros duplicados en el catálogo (VC-AT-03); sin respaldo declarado. Fuente: V13 tablas 21 y 32."/>

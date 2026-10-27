@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure (UBI-04), cómputo, identidad y colaboración"
+    id="n-azu"
+    documentation="55 elementos lógicos en East US (47 producción, 6 pruebas, 2 transversales); Entra ID y Microsoft 365 como servicios. Fuente: V13 tabla 35."/>

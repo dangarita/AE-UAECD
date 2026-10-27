@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centro de datos propio (UBI-01)"
+    id="n-dc"
+    documentation="On-premise, Bogotá, torre B piso 2. 36 elementos lógicos (24 producción, 12 pruebas) y 140 registros físicos del catálogo. Sin sitio alterno. Fuente: V13 tablas 17 y 35."/>

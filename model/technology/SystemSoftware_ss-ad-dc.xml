@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controladores de dominio (PROWINDC10 on-premise, PROWINDC12 en Azure, PROWINDC13 en OCI Ashburn)"
+    id="ss-ad-dc"
+    documentation="Un controlador por dominio de despliegue. Fuente: V13 tabla 27."/>

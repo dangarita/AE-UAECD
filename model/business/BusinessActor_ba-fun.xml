@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionarios"
+    id="ba-fun"
+    documentation="Usuarios del catálogo de servicios TI 13-02-DT-03 v3.0."/>

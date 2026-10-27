@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PROBDPANDORA (base de datos dentro de una máquina virtual)"
+    id="ss-db-pandora"
+    documentation="Motor no registrado en el catálogo; la hoja 14 declara Oracle 19. Producción local; pruebas PRUBDPANDORA en OCI Ashburn. Fuente: V13 tabla 31 y VC-AT-15."/>

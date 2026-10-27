@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDPRO INTRANET (MariaDB)"
+    id="db-intranet"
+    documentation="Sin dominio de despliegue asignado (PA-20); sin soporte según el catálogo. Fuente: V13 tabla 25."/>

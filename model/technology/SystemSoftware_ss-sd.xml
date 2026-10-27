@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mesa de servicio de CA (PROWINSDM01 y 02, PROWINITPA, PROWINITSC, PROWINDOMANG)"
+    id="ss-sd"
+    documentation="Ubicada en el centro de datos propio según el catálogo; la hoja 14 la ubica en el Data Center SDH (VC-AT-14). Fuente: V13 tabla 31."/>

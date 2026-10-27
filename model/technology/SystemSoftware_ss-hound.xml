@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plataforma SaaS de IA del proveedor (Hounduck) sobre AWS"
+    id="ss-hound"
+    documentation="CatIA se ejecuta sobre esta plataforma; el catálogo la registra como un único servicio SaaS sin integraciones (PA-03). Fuente: V13 numeral 5.2."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionarios y contratistas"
+    id="ba-func"
+    documentation="Usuarios internos en sedes y SuperCADE. Fuente: V13 numeral 5.2, Ilustración 1."/>

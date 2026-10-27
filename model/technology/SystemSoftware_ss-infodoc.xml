@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidor de INFODOC (PROWIN01), Windows Server 2008 R2"
+    id="ss-infodoc"
+    documentation="OCI Ashburn; sin base de datos ni ambiente de pruebas identificados. Fuente: V13 tablas 24 y 31."/>

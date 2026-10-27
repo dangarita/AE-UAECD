@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración centralizada de respaldos en Azure, OCI y Nutanix"
+    id="ts-bk-cent"
+    documentation="Restauraciones validadas de forma periódica. En el catálogo lógico, 14 de 227 registros declaran respaldo, 3 declaran no tenerlo, 9 «No aplica» y 201 están en blanco. Fuente: V13 tablas 14, 21 y 43."/>

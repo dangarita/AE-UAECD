@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-169">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bp-goti.xml#bp-goti"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bp-pr02.xml#bp-pr02"/>
+</archimate:AssociationRelationship>

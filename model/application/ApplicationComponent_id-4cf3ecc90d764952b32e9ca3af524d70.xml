@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Component_other_services1"
+    id="id-4cf3ecc90d764952b32e9ca3af524d70">
+  <properties
+      key="IIS"/>
+</archimate:ApplicationComponent>

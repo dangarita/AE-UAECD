@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxies Veeam (proxy-veeam-nut-procesa y VMPROVEEAM)"
+    id="ss-veeam"
+    documentation="Registrados en el centro de datos propio y en Azure. Fuente: V13 tabla 32."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replicación Oracle (DRP) hacia OCI Bogotá"
+    id="ts-drp"
+    documentation="El PETI reporta el DRP de WCC implementado y trasladados los planes de recuperación de las bases administrativas y misionales. Cargas replicadas y frecuencia sin confirmar (PA-01). Fuente: V13 tabla 43."/>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dos conmutadores Dell S4048: el catálogo los ubica en la sede principal y el nombre de la sala (CORE_DC_SHD_2) sugiere el Data Center SDH"
+    id="as-dell"
+    documentation="Fuente: V13 tablas 22 y 36; VC-AT-09."/>

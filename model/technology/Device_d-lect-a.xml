@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="30 lectores biométricos de control de acceso (torre A)"
+    id="d-lect-a"
+    documentation="Suprema BioEntry W2 y BioStation A2. Los 58 lectores figuran como punto único de falla. Fuente: V13 tabla 28."/>

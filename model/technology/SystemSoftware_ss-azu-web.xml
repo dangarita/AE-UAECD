@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidores web y de aplicación en Azure (portales, IDECA, datos abiertos, visor y mapas)"
+    id="ss-azu-web"
+    documentation="VMPROWEB16 y 18, vmproweb14, vmprockan13 y VMPROCKAN14, VMPROSRIG01, vmprovisgeobta y vmprowls10 (WebLogic de mapas). Fuente: V13 tabla 31."/>

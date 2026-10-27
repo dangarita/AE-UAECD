@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SD-WAN y canales dedicados e Internet con varios operadores"
+    id="cn-sdwan"
+    documentation="Según el PETI; sin registro de enlaces, anchos de banda, operadores ni cifrado (PA-14). Fuente: V13 tablas 14 y 35."/>

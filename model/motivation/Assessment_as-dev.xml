@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sin ambiente de desarrollo: solo la base de SICapital (BDDES ADM) lo tiene"
+    id="as-dev"
+    documentation="El desarrollo probablemente se hace sobre pruebas o fuera de lo registrado. Fuente: V13 numeral 5.5.4."/>

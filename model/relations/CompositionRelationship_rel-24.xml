@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-24">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-his2.xml#db-his2"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-drp-his.xml#db-drp-his"/>
+</archimate:CompositionRelationship>

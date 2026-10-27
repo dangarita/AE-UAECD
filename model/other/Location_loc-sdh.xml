@@ -1,0 +1,5 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Center SDH"
+    id="loc-sdh"
+    documentation="Registros heredados con soporte vencido; su uso actual se analiza en el hallazgo VC-AT-09. Fuente: V13 tabla 36."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOC del proveedor (monitoreo permanente)"
+    id="ba-soc"
+    documentation="Seguridad perimetral y de equipos finales operada como servicio. Fuente: PETI 2026 (5.5); V13 tabla 14, DA-08."/>

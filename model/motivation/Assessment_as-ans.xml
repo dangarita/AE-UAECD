@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estado de los ANS: valores no disponibles en las fuentes (0 de 7 servicios)"
+    id="as-ans"
+    documentation="El catálogo remite a un archivo aparte que no hace parte de las fuentes. Los indicadores GOTI-01 a GOTI-04 miden el proceso, no cada servicio. Fuente: V13 tablas 41 y 42."/>

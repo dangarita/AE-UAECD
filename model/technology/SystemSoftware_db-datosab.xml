@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BDPRO DATOSABIERTOS (PostgreSQL)"
+    id="db-datosab"
+    documentation="Sin dominio de despliegue asignado ni alta disponibilidad registrada. Fuente: V13 tablas 25 y 31."/>

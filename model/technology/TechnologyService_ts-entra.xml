@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Entra ID (servicio del proveedor)"
+    id="ts-entra"
+    documentation="No tiene elemento lógico en el catálogo. Fuente: V13 tabla 32."/>

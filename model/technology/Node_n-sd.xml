@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sin dominio asignado u otro proveedor (4 registros)"
+    id="n-sd"
+    documentation="Registros lógicos sin dominio de despliegue (3 en producción) y uno de colocation. Fuente: V13 tabla 17; hoja 04."/>

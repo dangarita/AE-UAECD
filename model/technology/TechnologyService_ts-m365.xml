@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft 365 (servicio del proveedor)"
+    id="ts-m365"
+    documentation="Incluye Outlook, OneDrive, SharePoint y Office 365. No tiene elemento lógico en el catálogo. Fuente: V13 tablas 32 y 44."/>

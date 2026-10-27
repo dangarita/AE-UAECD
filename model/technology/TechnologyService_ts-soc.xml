@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vigilancia de seguridad: SOC permanente y FortiSIEM"
+    id="ts-soc"
+    documentation="FortiSIEM y FortiCollector sin respaldo declarado. Fuente: V13 tabla 43."/>

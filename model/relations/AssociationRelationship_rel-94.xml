@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enlace entre nubes (sin registro, PA-14)"
+    id="rel-94">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-azu.xml#n-azu"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_n-ash.xml#n-ash"/>
+</archimate:AssociationRelationship>

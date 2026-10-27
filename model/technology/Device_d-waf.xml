@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAF FortiWeb-1000E (2)"
+    id="d-waf"
+    documentation="Sin punto único de falla declarado. Soporte vigente. Fuente: V13 tabla 22."/>

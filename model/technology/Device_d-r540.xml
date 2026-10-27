@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidor Dell PowerEdge R540 (PROWINGEST03)"
+    id="d-r540"
+    documentation="Criticidad alta, aloja el servidor de archivos. Fin de soporte estándar vencido; sin contrato. Fuente: V13 tabla 18."/>

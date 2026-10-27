@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-184">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_ss-mfa.xml#ss-mfa"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-ad-dc.xml#ss-ad-dc"/>
+</archimate:AssociationRelationship>

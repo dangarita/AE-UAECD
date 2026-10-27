@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server 2016 (2), MariaDB (2) y PostgreSQL (1)"
+    id="ss-otrasdb"
+    documentation="Mesa de Servicios, IMC, Intranet, Portal de Catastro y Datos Abiertos. Fuente: V13 tabla 25."/>

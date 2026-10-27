@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oracle 19c con RAC: 8 bases de producción (misional, histórica, administrativa, WCC, DSGDA, geográfica, mapas y repositorio)"
+    id="ss-ora-pro"
+    documentation="OCI Ashburn. Fuente: V13 tablas 25 y 34."/>

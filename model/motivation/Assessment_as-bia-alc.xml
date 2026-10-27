@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alcance: nueve servicios de apoyo de un proceso de criticidad baja; no dimensionan la recuperación de la infraestructura misional (RT-09)"
+    id="as-bia-alc"
+    documentation="El PETI aspira a RTO y RPO cercanos a cero para los datos catastrales; ninguna fuente fija ese valor (VC-AT-29). Fuente: V13 numeral 5.7.2."/>

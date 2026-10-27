@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad virtual en Azure: FortiGate y FortiWeb; Tenable"
+    id="ss-fw-azu"
+    documentation="6 registros con FortiOS en Azure. Fuente: V13 numeral 5.3.3 y tabla 32."/>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sin registro de inmutabilidad ni aislamiento de las copias; sin resultados de pruebas del DRP"
+    id="as-copias"
+    documentation="Fuente: V13 tabla 45."/>

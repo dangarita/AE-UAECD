@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-138">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-azu.xml#n-azu"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-pres-por.xml#ss-pres-por"/>
+</archimate:CompositionRelationship>

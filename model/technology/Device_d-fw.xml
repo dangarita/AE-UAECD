@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewalls FortiGate FG900G (primario y secundario)"
+    id="d-fw"
+    documentation="Sin punto único de falla declarado. Soporte vigente. Fuente: V13 tabla 22."/>

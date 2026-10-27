@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-165">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_bi-mesa.xml#bi-mesa"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_ts-svc6.xml#ts-svc6"/>
+</archimate:AssociationRelationship>

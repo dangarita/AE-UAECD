@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCI Ashburn (UBI-02), región primaria"
+    id="n-ash"
+    documentation="127 elementos lógicos (98 producción, 25 pruebas, 1 desarrollo, 3 transversales). Dominios de disponibilidad, tenancy y compartimentos por determinar. Fuente: V13 tablas 17 y 35."/>

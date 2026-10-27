@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtualización de la hiperconvergencia (Nutanix; hipervisor y versión no registrados)"
+    id="ss-ahv"
+    documentation="El catálogo no registra el hipervisor ni su versión; la plataforma se conoce por los nombres de los nodos y por el PETI. Fuente: V13 numeral 5.3.1."/>

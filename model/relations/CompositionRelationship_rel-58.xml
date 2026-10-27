@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-58">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_n-dc.xml#n-dc"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-db-pandora.xml#ss-db-pandora"/>
+</archimate:CompositionRelationship>

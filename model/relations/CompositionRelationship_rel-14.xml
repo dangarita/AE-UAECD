@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rel-14">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_ss-ora-pru.xml#ss-ora-pru"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_db-des-adm.xml#db-des-adm"/>
+</archimate:CompositionRelationship>

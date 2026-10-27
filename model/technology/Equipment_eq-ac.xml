@@ -1,0 +1,5 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aire acondicionado (3 equipos registrados)"
+    id="eq-ac"
+    documentation="Un piso-techo de 60.000 BTU/h en el centro de cómputo del piso 2 y dos minisplit de 24.000 BTU/h en los pisos 11 y 12. El PETI menciona aires de precisión que no aparecen como tales en el catálogo. Fuente: V13 tabla 28."/>

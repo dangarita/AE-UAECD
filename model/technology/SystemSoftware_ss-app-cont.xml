@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contenedores: seis nodos OKE (tres de producción), registro y repositorio de imágenes Docker"
+    id="ss-app-cont"
+    documentation="OCI Ashburn. Fuente: V13 tabla 34."/>

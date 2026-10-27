@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servidores de FOCA y Línea de Producción Cartográfica (VMPROMICRO, VMPROMSADMIN, VMPROJAVA01)"
+    id="ss-foca"
+    documentation="FOCA: 5 registros en OCI Ashburn. VMPROJAVA01 se rotula «Foca Viejo» en el catálogo y la hoja 14 lo asigna a LPC (VC-AT-14). Fuente: V13 tablas 26 y 31."/>

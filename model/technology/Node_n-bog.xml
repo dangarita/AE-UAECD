@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCI Bogotá (UBI-03), contingencia"
+    id="n-bog"
+    documentation="5 bases Oracle 19c con RAC (réplicas DRP). Sin servidores de aplicación registrados. Fuente: V13 tabla 35."/>

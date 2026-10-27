@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conmutadores de núcleo FortiSwitch 2048F (4)"
+    id="d-swc"
+    documentation="Dos en el piso 2 (CORE1 y CORE2) y uno en cada uno de los pisos 11 y 12. Soporte vigente. Fuente: V13 tabla 22."/>
