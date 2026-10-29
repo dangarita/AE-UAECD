@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacidades TI"
-    id="id-9ff7d20404e649d1ae4775da11f3872f">
+    id="id-9ff7d20404e649d1ae4775da11f3872f"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3ebb074f0be0447aaf91bfc1132ee669"

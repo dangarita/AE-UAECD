@@ -1,9 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-02 Sistemas de información y plataformas de aplicación"
+    name="Sistemas de información y plataformas de aplicación"
     id="view-2"
-    documentation="Parte de la Ilustración 2 de la V13 (numeral 5.4). Cada sistema se une a la plataforma de aplicación que lo soporta según el catálogo (hojas 04 y 14). Los sistemas sin servidor identificado quedan aparte (VC-AT-12).">
+    documentation="Parte de la Ilustración 2 de la V13 (numeral 5.4). Cada sistema se une a la plataforma de aplicación que lo soporta según el catálogo (hojas 04 y 14). Los sistemas sin servidor identificado quedan aparte (VC-AT-12)."
+    viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="do-2-1"
@@ -30,6 +31,11 @@
           id="conn-2-1"
           source="do-2-2"
           target="do-2-3">
+        <bendpoints
+            startX="89"
+            startY="-228"
+            endX="89"
+            endY="207"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-95.xml#rel-95"/>
@@ -39,6 +45,11 @@
           id="conn-2-3"
           source="do-2-2"
           target="do-2-5">
+        <bendpoints
+            startX="-67"
+            startY="-192"
+            endX="-67"
+            endY="123"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-97.xml#rel-97"/>
@@ -60,6 +71,11 @@
           id="conn-2-6"
           source="do-2-6"
           target="do-2-9">
+        <bendpoints
+            startX="-63"
+            startY="-168"
+            endX="-63"
+            endY="147"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-100.xml#rel-100"/>
@@ -69,6 +85,11 @@
           id="conn-2-5"
           source="do-2-6"
           target="do-2-8">
+        <bendpoints
+            startX="9"
+            startY="-192"
+            endX="9"
+            endY="183"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-99.xml#rel-99"/>
@@ -78,6 +99,11 @@
           id="conn-2-4"
           source="do-2-6"
           target="do-2-7">
+        <bendpoints
+            startX="69"
+            startY="-228"
+            endX="69"
+            endY="207"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-98.xml#rel-98"/>
@@ -108,6 +134,11 @@
           id="conn-2-7"
           source="do-2-10"
           target="do-2-11">
+        <bendpoints
+            startX="61"
+            startY="-228"
+            endX="61"
+            endY="207"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-101.xml#rel-101"/>
@@ -117,6 +148,11 @@
           id="conn-2-9"
           source="do-2-10"
           target="do-2-13">
+        <bendpoints
+            startX="-59"
+            startY="-168"
+            endX="-59"
+            endY="147"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_rel-103.xml#rel-103"/>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacidades de la entidad"
-    id="id-9bd32541806d42ceb2d8fedc525aee18">
+    id="id-9bd32541806d42ceb2d8fedc525aee18"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5761114466d4841b269014246b9fae9"

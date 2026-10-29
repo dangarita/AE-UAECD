@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-06 Distribución geográfica de los elementos tecnológicos"
+    name="Distribución geográfica de los elementos tecnológicos"
     id="view-6"
     documentation="Ilustración 5 de la V13 (numeral 5.5.3). Sede principal, torres A y B, centro de datos propio, Data Center SDH, cuatro SuperCADE y las regiones de nube. Fuente: libro de catálogos v1.2, hojas 03, 04 y 06.">
   <children

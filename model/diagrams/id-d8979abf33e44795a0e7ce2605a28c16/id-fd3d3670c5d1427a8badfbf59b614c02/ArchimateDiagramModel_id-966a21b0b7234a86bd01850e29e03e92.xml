@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="vista por capas"
-    id="id-966a21b0b7234a86bd01850e29e03e92">
+    id="id-966a21b0b7234a86bd01850e29e03e92"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-166fd76b62a24454aad9c3583f6bd4e7"

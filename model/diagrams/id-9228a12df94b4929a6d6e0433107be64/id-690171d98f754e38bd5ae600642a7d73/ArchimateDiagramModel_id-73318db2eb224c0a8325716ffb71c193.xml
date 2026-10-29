@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura de sistemas de información"
-    id="id-73318db2eb224c0a8325716ffb71c193">
+    id="id-73318db2eb224c0a8325716ffb71c193"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-e6d0462112b84af3ba65b9de38735356"

@@ -1,9 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-01 Arquitectura de referencia tecnológica actual por capas"
+    name="Arquitectura de referencia tecnológica"
     id="view-1"
-    documentation="Ilustración 1 de la V13 (numeral 5.2). Ocho capas, operación y seguridad transversales y cinco dominios de despliegue. Fuente: PETI 2026 y libro de catálogos v1.2.">
+    documentation="Ilustración 1 de la V13 (numeral 5.2). Ocho capas, operación y seguridad transversales y cinco dominios de despliegue. Fuente: PETI 2026 y libro de catálogos v1.2."
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="do-1-1"

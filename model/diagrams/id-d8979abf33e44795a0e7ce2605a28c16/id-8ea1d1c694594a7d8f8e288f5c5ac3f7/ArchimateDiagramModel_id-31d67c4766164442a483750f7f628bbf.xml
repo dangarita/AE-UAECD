@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Blue Print"
-    id="id-31d67c4766164442a483750f7f628bbf">
+    id="id-31d67c4766164442a483750f7f628bbf"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b6d27096ca84f5ca263a74c4746d181"

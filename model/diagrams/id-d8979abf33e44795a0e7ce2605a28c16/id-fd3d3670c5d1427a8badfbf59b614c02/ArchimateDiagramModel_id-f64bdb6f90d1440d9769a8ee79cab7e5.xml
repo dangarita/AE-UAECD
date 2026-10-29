@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Estructura de información MII"
-    id="id-f64bdb6f90d1440d9769a8ee79cab7e5">
+    id="id-f64bdb6f90d1440d9769a8ee79cab7e5"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f8dc2a52cdfe4b47a828fd5383d31a85"

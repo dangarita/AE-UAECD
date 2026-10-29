@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-07 Separación de ambientes por dominio de despliegue"
+    name="Separación de ambientes por dominio de despliegue"
     id="view-7"
     documentation="Ilustración 6 de la V13 (numeral 5.5.4). Elementos lógicos por dominio y ambiente según el campo «Ambiente» de la hoja 04 (227 registros). La hoja 08 está sin diligenciar.">
   <children

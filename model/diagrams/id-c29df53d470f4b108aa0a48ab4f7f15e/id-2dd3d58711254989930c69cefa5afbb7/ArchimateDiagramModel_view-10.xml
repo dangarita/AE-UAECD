@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-10 Objetivos de recuperación publicados en el BIA y el BCP 2026"
+    name="Objetivos de recuperación"
     id="view-10"
     documentation="Ilustración 9 de la V13 (numeral 5.7.2). RTO, MTPD y RPO de los nueve servicios de apoyo del proceso Gestión Estratégica de Tecnología, ubicados en la plataforma que los aloja según los catálogos. Los valores están como propiedades de cada servicio. Fuente: BIA 2026 v2.0 (4.11), BCP 2026 (5) y V13 tabla 44.">
   <children

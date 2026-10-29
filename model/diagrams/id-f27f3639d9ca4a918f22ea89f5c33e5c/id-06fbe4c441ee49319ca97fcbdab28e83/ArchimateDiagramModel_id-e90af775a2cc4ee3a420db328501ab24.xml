@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tramites y Servicios To-Be"
-    id="id-e90af775a2cc4ee3a420db328501ab24">
+    id="id-e90af775a2cc4ee3a420db328501ab24"
+    viewpoint="service_realization">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-b3d3cc4464c342038216eb15cca52ef8"

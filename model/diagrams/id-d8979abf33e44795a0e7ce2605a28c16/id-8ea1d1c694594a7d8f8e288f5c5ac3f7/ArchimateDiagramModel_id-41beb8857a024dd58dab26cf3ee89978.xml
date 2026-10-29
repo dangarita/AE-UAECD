@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad"
-    id="id-41beb8857a024dd58dab26cf3ee89978">
+    id="id-41beb8857a024dd58dab26cf3ee89978"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-61a51d557c114c6ab3b0353f59b52604"

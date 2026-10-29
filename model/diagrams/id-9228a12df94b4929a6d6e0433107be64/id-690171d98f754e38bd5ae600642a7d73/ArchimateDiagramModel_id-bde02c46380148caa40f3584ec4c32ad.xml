@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mapa de Procesos - SI"
-    id="id-bde02c46380148caa40f3584ec4c32ad">
+    id="id-bde02c46380148caa40f3584ec4c32ad"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7093ea33a85a4047b58a69f3ee24ba2b"

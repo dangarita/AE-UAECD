@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-13 Hiperconvergencia on-premise y plataformas de operación del centro de datos"
+    name="Hiperconvergencia on-premise y plataformas de operación del centro de datos"
     id="view-13"
     documentation="Cómputo del centro de datos propio (V13 numerales 5.3.1 y 5.3.2). Los 36 elementos lógicos on-premise corren sobre los cuatro nodos HX630. El catálogo no registra el hipervisor ni su versión. Fuente: libro de catálogos v1.2, hojas 03 y 04; PETI 2026.">
   <children

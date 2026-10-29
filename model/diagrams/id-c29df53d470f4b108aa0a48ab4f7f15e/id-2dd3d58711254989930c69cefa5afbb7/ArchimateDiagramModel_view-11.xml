@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-11 Red, seguridad perimetral e identidad"
+    name="Red, seguridad perimetral e identidad"
     id="view-11"
     documentation="Equipos de red y seguridad del catálogo físico (V13 tabla 22), seguridad virtual en nubes, identidad (tabla 27) y vigilancia (tabla 14, DA-05 y DA-08). Las conexiones entre equipos no están registradas (hoja 07 sin diligenciar).">
   <children

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integraciones e Interoperabilidad To-BE"
-    id="id-7e645e5f8a6c445e9ac85a07965a8523">
+    id="id-7e645e5f8a6c445e9ac85a07965a8523"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-01986e6defe24e84a0ecb279da0703d1"

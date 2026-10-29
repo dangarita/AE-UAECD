@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-05 Diagrama de despliegue de la infraestructura actual"
+    name="Diagrama de despliegue de infraestructura"
     id="view-5"
     documentation="Ilustración 4 de la V13 (numeral 5.5.2). Cinco nodos de despliegue con los componentes que el catálogo registra. Las asociaciones sin registro son conexiones que existen según el PETI, pero la hoja de enlaces (07) está sin diligenciar.">
   <children

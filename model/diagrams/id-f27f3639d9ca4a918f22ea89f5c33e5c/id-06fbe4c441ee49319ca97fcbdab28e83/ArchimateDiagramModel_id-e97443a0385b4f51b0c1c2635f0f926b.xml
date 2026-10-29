@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacidades de la entidad To-Be"
-    id="id-e97443a0385b4f51b0c1c2635f0f926b">
+    id="id-e97443a0385b4f51b0c1c2635f0f926b"
+    viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69ce8dc71efb48fa94d5abd59fefc16f"

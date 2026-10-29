@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-09 Mecanismos de continuidad y disponibilidad por dominio"
+    name="Mecanismos de continuidad y disponibilidad por dominio"
     id="view-9"
     documentation="Ilustración 8 de la V13 (numeral 5.7.1). Alta disponibilidad, respaldo, recuperación y brechas registradas por dominio de despliegue, más los mecanismos transversales. Fuente: libro de catálogos v1.2 (hojas 03, 04 y 13) y PETI 2026.">
   <children

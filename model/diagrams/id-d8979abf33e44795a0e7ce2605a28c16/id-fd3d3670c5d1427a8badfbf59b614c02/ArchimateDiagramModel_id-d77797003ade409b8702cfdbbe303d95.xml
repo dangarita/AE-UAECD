@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Flujo de Información"
-    id="id-d77797003ade409b8702cfdbbe303d95">
+    id="id-d77797003ade409b8702cfdbbe303d95"
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bdd6f6bcf9454d2590cd893b048bdb20">

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesos"
-    id="id-fba8a30d3b9c4290943700816b391b63">
+    id="id-fba8a30d3b9c4290943700816b391b63"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-f4df04094b3d4f6b84646fc312ac706b"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura de referencia ToBe"
-    id="id-69e0c2ddb7154eef804ac157f8a008e5">
+    id="id-69e0c2ddb7154eef804ac157f8a008e5"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10b8f8e2bdef41969d536d1edb1eed0f"

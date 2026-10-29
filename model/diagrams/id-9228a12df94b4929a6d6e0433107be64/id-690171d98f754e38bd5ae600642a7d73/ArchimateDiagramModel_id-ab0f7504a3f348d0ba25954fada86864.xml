@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mapa de integraciones"
-    id="id-ab0f7504a3f348d0ba25954fada86864">
+    id="id-ab0f7504a3f348d0ba25954fada86864"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-535f570247c64ff18bbfb326aa1aa8fe"

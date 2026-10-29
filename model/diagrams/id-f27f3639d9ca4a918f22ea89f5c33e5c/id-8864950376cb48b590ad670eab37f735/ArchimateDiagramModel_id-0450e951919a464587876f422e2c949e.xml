@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objetivos estratégicos"
-    id="id-0450e951919a464587876f422e2c949e">
+    id="id-0450e951919a464587876f422e2c949e"
+    viewpoint="goal_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0393b68ed2b04daebede989c879a98e2">

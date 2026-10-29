@@ -1,9 +1,10 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-12 Bases de datos registradas por dominio y ambiente"
+    name="Bases de datos registradas por dominio y ambiente"
     id="view-12"
-    documentation="Detalle de la capa de datos (V13 numeral 5.3.4, tablas 25 y 34). 17 bases Oracle 19c (RAC en 13) y las bases SQL Server, MariaDB y PostgreSQL. Fuente: libro de catálogos v1.2, hoja 04.">
+    documentation="Detalle de la capa de datos (V13 numeral 5.3.4, tablas 25 y 34). 17 bases Oracle 19c (RAC en 13) y las bases SQL Server, MariaDB y PostgreSQL. Fuente: libro de catálogos v1.2, hoja 04."
+    viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="do-12-1"

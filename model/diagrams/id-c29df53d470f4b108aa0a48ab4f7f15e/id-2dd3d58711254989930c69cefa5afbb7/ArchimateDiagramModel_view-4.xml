@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AT-04 Vista lógica de la infraestructura en tres capas"
+    name="Vista lógica de la infraestructura"
     id="view-4"
     documentation="Ilustración 3 de la V13 (numeral 5.5.1). Presentación, aplicación y datos con su dominio de despliegue; seguridad e identidad a la izquierda y operación a la derecha. Fuente: libro de catálogos v1.2 (hojas 04 y 14) y PETI 2026.">
   <children
